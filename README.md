@@ -1,29 +1,41 @@
 # 👋 Hello, I'm Sekh Samim Ali  
-### **Aspiring Data Scientist | Computer Science Student | C & Python Learner**  
+### 💻 Aspiring Data Scientist | 🎓 Computer Science Student | 🐍 C & Python Learner
 
-🎓 **Currently Learning:**  
-- **Data Science Foundations** (Python, Pandas, NumPy, Matplotlib)  
-- **C Programming** (Problem-solving & algorithm design)  
-- **Machine Learning Basics** (via YouTube & Google Colab)  
+---
 
-💡 **Learning Path & Approach:**  
-- Watching structured **YouTube tutorials** on Python, Pandas & ML  
-- Practicing **C programming** for algorithmic thinking and college coursework  
-- Using **Google Colab** for hands-on Data Science experiments and projects  
+### 🎓 Currently Learning  
+- 📊 **Data Science Foundations** (Python, Pandas, NumPy, Matplotlib)  
+- 💡 **C Programming** (Problem-solving & algorithm design)  
+- 🤖 **Machine Learning Basics** (via YouTube & Google Colab)
 
-🛠️ **Languages & Tools I Use:**  
-- **Python** – Data Analysis, ML, and automation  
-- **C** – Core programming, logic building  
-- **Pandas, NumPy, Matplotlib** – Data wrangling & visualization  
-- **Google Colab** – Online notebook for Python & ML practice  
-- **GitHub** – Version control and code sharing  
+---
 
-🚀 **Current Goals:**  
-1. Strengthen problem-solving with **C programming**  
-2. Gain proficiency in **Python for Data Analysis**  
-3. Learn and apply **Machine Learning algorithms**  
-4. Start building **mini Data Science & ML projects**  
+### 🧠 Learning Path & Approach  
+- 🎥 Watching **YouTube tutorials** on Python, Pandas & ML  
+- 💻 Practicing **C programming** for logic building  
+- ☁️ Using **Google Colab** for Data Science projects  
 
-📫 **Connect with Me:**  
-- **Email:** [asamimali123@gmail.com](mailto:asamimali123@gmail.com)  
-- **GitHub:** [@PandasSamim](https://github.com/PandasSamim)
+---
+
+### 🛠️ Languages & Tools I Use  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🚀 Current Goals  
+1. 🧠 Strengthen **C programming** for problem-solving  
+2. 🐍 Improve **Python for Data Analysis**  
+3. 🤖 Explore and apply **Machine Learning algorithms**  
+4. 🛠️ Build **mini Data Science & ML projects**
+
+---
+
+### 📫 Connect with Me  
+- ✉️ **Email:** [asamimali123@gmail.com](mailto:asamimali123@gmail.com)  
+- 💻 **GitHub:** [@PandasSamim](https://github.com/PandasSamim)
