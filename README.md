@@ -39,3 +39,9 @@
 ### 📫 Connect with Me  
 - ✉️ **Email:** [asamimali123@gmail.com](mailto:asamimali123@gmail.com)  
 - 💻 **GitHub:** [@PandasSamim](https://github.com/PandasSamim)
+
+### ⭐ Support My Work
+
+[![Star me](https://img.shields.io/github/stars/PandasSamim/PandasSamim?style=social)](https://github.com/PandasSamim/PandasSamim/stargazers)
+
+If you like my work, please give me a star!
