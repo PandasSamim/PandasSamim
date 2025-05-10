@@ -1,4 +1,9 @@
-# 👋 Hello, I'm **Sekh Samim Ali**  
+<p align="center">
+  <img src="https://media3.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=6c09b952sf99696o7cin17ehfzmdvv77xnrmgzsbht4zroxa&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="500px">
+</p>
+
+# 👋 Hello, I'm **Sekh Samim Ali**  <img src="https://media.giphy.com/media/hvRJCLFzcasrFdDwst/giphy.gif" width="40px" style="margin-left: 10px;" />
+
 ### 💻 Aspiring Data Scientist | 🎓 Computer Science Student | 🐍 C & Python Learner  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=435&lines=Data+Science+Explorer;Python+%7C+C+%7C+HTML+%26+CSS;Machine+Learning+Beginner;Mini+Projects+%7C+GitHub+Learner)](https://git.io/typing-svg)
