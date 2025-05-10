@@ -1,47 +1,66 @@
-# 👋 Hello, I'm Sekh Samim Ali  
-### 💻 Aspiring Data Scientist | 🎓 Computer Science Student | 🐍 C & Python Learner
+# 👋 Hello, I'm **Sekh Samim Ali**  
+### 💻 Aspiring Data Scientist | 🎓 Computer Science Student | 🐍 C & Python Learner  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=435&lines=Data+Science+Explorer;Python+%7C+C+%7C+HTML+%26+CSS;Machine+Learning+Beginner;Mini+Projects+%7C+GitHub+Learner)](https://git.io/typing-svg)
 
 ---
 
-### 🎓 Currently Learning  
-- 📊 **Data Science Foundations** (Python, Pandas, NumPy, Matplotlib)  
-- 💡 **C Programming** (Problem-solving & algorithm design)  
-- 🤖 **Machine Learning Basics** (via YouTube & Google Colab)
+### 🎯 Currently Focused On  
+- 📊 Learning **Data Science Foundations** with Python, Pandas, NumPy, and Matplotlib  
+- 💻 Strengthening my **C Programming** skills through DSA problems  
+- 🕸️ Practicing **HTML & CSS** for web development basics  
+- 🤖 Exploring **Machine Learning** using Google Colab  
+- 🛠️ Building mini projects to **apply and practice** new concepts  
 
 ---
 
-### 🧠 Learning Path & Approach  
-- 🎥 Watching **YouTube tutorials** on Python, Pandas & ML  
-- 💻 Practicing **C programming** for logic building  
-- ☁️ Using **Google Colab** for Data Science projects  
+### 🧠 My Learning Path & Tools  
+- 🎥 **YouTube** for hands-on tutorials  
+- ☁️ **Google Colab** for coding in the cloud  
+- 🌐 **VS Code** for writing Python, HTML & CSS  
+- 🧪 Practice-oriented learning: **Code → Debug → Improve → Share**
 
 ---
 
-### 🛠️ Languages & Tools I Use  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 🔧 Languages & Tools I Use  
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
 ### 🚀 Current Goals  
-1. 🧠 Strengthen **C programming** for problem-solving  
-2. 🐍 Improve **Python for Data Analysis**  
-3. 🤖 Explore and apply **Machine Learning algorithms**  
-4. 🛠️ Build **mini Data Science & ML projects**
+1. 🧠 Solve 50+ problems in **C language**  
+2. 🕸️ Build mini **HTML & CSS websites**  
+3. 📈 Create 2–3 **data analysis projects** using Python  
+4. 🤖 Try out beginner-level **ML algorithms**  
+5. ⭐ Improve **GitHub profile** with projects & commits  
 
 ---
 
-### 📫 Connect with Me  
-- ✉️ **Email:** [asamimali123@gmail.com](mailto:asamimali123@gmail.com)  
-- 💻 **GitHub:** [@PandasSamim](https://github.com/PandasSamim)
+### 📫 Let's Connect!
 
-### ⭐ Support My Work
+<p align="left">
+  <a href="mailto:asamimali123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-asamimali123%40gmail.com-red?style=flat-square&logo=gmail">
+  </a>
+  <a href="https://github.com/PandasSamim" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-PandasSamim-black?style=flat-square&logo=github">
+  </a>
+</p>
 
-[![Star me](https://img.shields.io/github/stars/PandasSamim/PandasSamim?style=social)](https://github.com/PandasSamim/PandasSamim/stargazers)
+---
 
-If you like my work, please give me a star!
+### ⭐ Support My Work  
+[![Star me](https://img.shields.io/github/stars/PandasSamim/PandasSamim?style=social)](https://github.com/PandasSamim?tab=repositories)
+
+If you like my projects or find them helpful, please consider giving them a ⭐!
